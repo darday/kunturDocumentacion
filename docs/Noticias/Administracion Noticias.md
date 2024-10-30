@@ -11,4 +11,4 @@ authors: yangshun
 
 ![Docusaurus logo](img/addnews.png)
 
-2. 
+2. Llenar los datos del formulario

@@ -4,8 +4,14 @@ title: Administración Película-Actividad
 authors: jxseph
 
 ---
+Una vez que ya tenemos creadas las películas y las actividades es momento de asociarlas. Es decir definir la película que se va a mostrar en una actividad. Por ejemplo: 
+* Creamos la actividad que tiene la siguiente información:	VIE 31 - OCT |	19:00 |	Proyección de películas | Bolivar |	Teatro Nilo, Calle Convención de 1884, Guaranda
+* Creamos la película "Interestelar"
+Ahora las asociamos es decir seleccionamos la fecha y seleccionamos la película. Ya con esto podremos ver la película en la página web en la fecha indicada.
+
 
 ## AGREGAR PELÍCULA A ACTIVIDAD
+
 1. Para agregar películas a la actividad es necesario dar clic en la opción "Agregar Pelí a Actividad" del menú de la página de administrador como se muestra en la siguiente imagen
 
 ![Docusaurus logo](img/peliact.png)

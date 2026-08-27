@@ -4,6 +4,11 @@ title: Administración Actividad
 authors: jxseph
 
 ---
+Antes de Agregar actividades debemos "Agregar fecha de programación" en este apartado debemos agregar todos los días en los que se llevará a cabo el festival Kunturñawi. 
+Los campos a llenar son:
+* Fecha: Ingresar la fecha 
+* Descripción de la imagen: Ingresar texto descriptivo de la fecha. Esto se visualizará en la web en el carousel de fechas (JUE 27). 
+* Imagen:Este campo no es obligatorio y se puede dejar vacío ya que no se usa. 
 
 ## AGREGAR ACTIVIDADES
 1. Para agregar actividades para el calendario es necesario dar clic en la opción "Agregar Actividad" del menú de la página de administrador como se muestra en la siguiente imagen
